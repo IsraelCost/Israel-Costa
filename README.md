@@ -32,6 +32,9 @@ I have been working with software development since 2020, going through language
 <a href="https://graphql.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/graphql-colored.svg" width="36" height="36" alt="GraphQL" /></a>
 <a href="https://www.postgresql.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/postgresql-colored.svg" width="36" height="36" alt="PostgreSQL" /></a>
 <a href="https://www.figma.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/figma-colored.svg" width="36" height="36" alt="Figma" /></a>
+<a href="https://kotlinlang.org/" target="_blank" rel="noreferrer"><img src="https://img.icons8.com/color/344/kotlin.png" width="36" height="36" alt="Kotlin" /></a>
+<a href="https://recoiljs.org/" target="_blank" rel="noreferrer"><img src="https://recoiljs.org/img/logo--dark.svg" height="36" alt="Recoil" /></a>
+<a href="https://styled-components.com/" target="_blank" rel="noreferrer"><img src="https://styled-components.com/nav-logo.png" height="36" alt="Styled Components" /></a>
 </p>
 
 
@@ -40,9 +43,6 @@ I have been working with software development since 2020, going through language
 <p align="left"> <a href="https://www.github.com/IsraelCost" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" width="32" height="32" /></a> <a href="https://www.linkedin.com/in/israel-costa-3b344a22b" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a></p>
 
 ### Badges
+<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=israelcost&show_icons=true&locale=en&layout=compact" alt="israelcost" /></p>
 
-<b>My GitHub Stats</b>
-
-<a href="http://www.github.com/IsraelCost"><img src="https://activity-graph.herokuapp.com/graph?username=IsraelCost&bg_color=1c1917&color=ffffff&line=0891b2&point=ffffff&area_color=1c1917&area=true&hide_border=true&custom_title=GitHub%20Commits%20Graph" alt="GitHub Commits Graph" /></a>
-
-<a href="https://github.com/IsraelCost" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=IsraelCost&langs_count=10&title_color=000000&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=israelcost&" alt="israelcost" /></p>

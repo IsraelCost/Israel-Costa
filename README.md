@@ -35,6 +35,8 @@ I have been working with software development since 2020, going through language
 <a href="https://kotlinlang.org/" target="_blank" rel="noreferrer"><img src="https://img.icons8.com/color/344/kotlin.png" width="36" height="36" alt="Kotlin" /></a>
 <a href="https://recoiljs.org/" target="_blank" rel="noreferrer"><img src="https://recoiljs.org/img/logo--dark.svg" height="36" alt="Recoil" /></a>
 <a href="https://styled-components.com/" target="_blank" rel="noreferrer"><img src="https://styled-components.com/nav-logo.png" height="36" alt="Styled Components" /></a>
+<a href="https://aws.amazon.com/pt/" target="_blank" rel="noreferrer"><img src="https://customcodefactory.com/wp-content/uploads/2019/12/aws-app-icon.jpg" height="36" alt="AWS" /></a>
+<a href="https://git-scm.com/" target="_blank" rel="noreferrer"><img src="https://avatars.githubusercontent.com/u/18133?s=200&v=4" height="36" alt="Git" /></a>
 </p>
 
 

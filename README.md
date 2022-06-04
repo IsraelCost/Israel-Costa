@@ -1,7 +1,7 @@
 Hi 👋 My name is Israel
 =======================
 
-Web Developer
+Software developer
 -------------
 
 I have been working with software development since 2020, going through languages such as Java, but working deeply with the Javascript stack. I have experience with front-end, back-end and mobile applications. In the first area I worked with ReactJS, NextJS, GraphQL, Redux, MaterialUI, Styled Components, ChakraUI, Recoil. In the second area I worked with NodeJS, ExpressJS, MongoDB, MySQL, PostgreeSQL, GraphQL. Finally I worked building app's mobile with the tools Kotlin and React Native. I have experience with TDD, integration tests, CI, Clean Architecture, Design Patterns and I already have basic knowledge in Cloud. I work very well as a team, having basic experience in leadership and software architecture since the beginning of its implementations.

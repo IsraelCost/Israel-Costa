@@ -4,12 +4,12 @@ Hi 👋 My name is Israel
 Software developer
 -------------
 
-I have been working with software development since 2020, going through languages such as Java, but working deeply with the Javascript stack. I have experience with front-end, back-end and mobile applications. In the first area I worked with ReactJS, NextJS, GraphQL, Redux, MaterialUI, Styled Components, ChakraUI, Recoil. In the second area I worked with NodeJS, ExpressJS, MongoDB, MySQL, PostgreeSQL, GraphQL. Finally I worked building app's mobile with the tools Kotlin and React Native. I have experience with TDD, integration tests, CI, Clean Architecture, Design Patterns and I already have basic knowledge in Cloud. I work very well as a team, having basic experience in leadership and software architecture since the beginning of its implementations.
+I have been working with software development since 2020, going through languages such as Java, but working deeply with the Javascript stack. I have experience with front-end and back-end applications. In the first area I worked with ReactJS, NextJS, GraphQL, Redux, MaterialUI, Styled Components, ChakraUI, Recoil. In the second area I worked with NodeJS, ExpressJS, MongoDB, MySQL, PostgreeSQL, GraphQL. I have experience with TDD, integration tests, CI, Clean Architecture, Design Patterns and I already have basic knowledge in Cloud. I work very well as a team, having basic experience in leadership and software architecture since the beginning of its implementations.
 
 * 🌍  I'm based in São Paulo
 * ✉️  You can contact me at [cmteisrael@gmail.com](mailto:cmteisrael@gmail.com)
 * 🚀  I'm currently working on [Smart City Brasil](http://maps.smartcitybr.com)
-* 🧠  I'm learning TDD, Clean Architecture and Design Patterns
+* 🧠  I'm learning GraphQL, TDD, Clean Architecture and Design Patterns
 * 🤝  I'm open to collaborating on interesting projects
 
 ### Skills
@@ -32,7 +32,6 @@ I have been working with software development since 2020, going through language
 <a href="https://graphql.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/graphql-colored.svg" width="36" height="36" alt="GraphQL" /></a>
 <a href="https://www.postgresql.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/postgresql-colored.svg" width="36" height="36" alt="PostgreSQL" /></a>
 <a href="https://www.figma.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/figma-colored.svg" width="36" height="36" alt="Figma" /></a>
-<a href="https://kotlinlang.org/" target="_blank" rel="noreferrer"><img src="https://img.icons8.com/color/344/kotlin.png" width="36" height="36" alt="Kotlin" /></a>
 <a href="https://recoiljs.org/" target="_blank" rel="noreferrer"><img src="https://recoiljs.org/img/logo--dark.svg" height="36" alt="Recoil" /></a>
 <a href="https://styled-components.com/" target="_blank" rel="noreferrer"><img src="https://styled-components.com/nav-logo.png" height="36" alt="Styled Components" /></a>
 <a href="https://aws.amazon.com/pt/" target="_blank" rel="noreferrer"><img src="https://customcodefactory.com/wp-content/uploads/2019/12/aws-app-icon.jpg" height="36" alt="AWS" /></a>

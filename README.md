@@ -9,7 +9,7 @@ I have been working with software development since 2020, going through language
 * 🌍  I'm based in São Paulo
 * ✉️  You can contact me at [cmteisrael@gmail.com](mailto:cmteisrael@gmail.com)
 * 🚀  I'm currently working on [Smart City Brasil](http://maps.smartcitybr.com)
-* 🧠  I'm learning GraphQL, TDD, Clean Architecture and Design Patterns
+* 🧠  I'm learning DevOps
 * 🤝  I'm open to collaborating on interesting projects
 
 ### Skills
